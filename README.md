@@ -1,4 +1,4 @@
-# Project UAS B.Pemrograman
+# Project UAS Bahasa Pemrograman
 
 ![Screenshot_20200119-111516~2](https://user-images.githubusercontent.com/56975779/72674779-9f06d600-3aad-11ea-96b2-a7c36adff3e0.png)
 
